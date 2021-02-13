@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="337884eb-1652-433e-a9ab-648a63e821df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/proscons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/content/Content.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/content/Content.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/Header.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/list/List.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/list/List.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oO0jboC3QH89am7gZOKjxofIWk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/list" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="337884eb-1652-433e-a9ab-648a63e821df" name="Default Changelist" comment="" />
+      <created>1613142465718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613142465718</updated>
+      <workItem from="1613142467356" duration="15629000" />
+      <workItem from="1613193627263" duration="6671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2578" y="345" width="594" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613144616495">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2578" y="345" width="594" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613144616495" />
+    <state x="2421" y="317" width="908" height="452" key="EditFileWatcherDialog" timestamp="1613146545145">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2421" y="317" width="908" height="452" key="EditFileWatcherDialog/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613146545145" />
+    <state width="1345" height="65" key="GridCell.Tab.0.bottom" timestamp="1613194761480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="65" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613194761480" />
+    <state width="1345" height="65" key="GridCell.Tab.0.center" timestamp="1613194761480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="65" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613194761480" />
+    <state width="1345" height="65" key="GridCell.Tab.0.left" timestamp="1613194761480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="65" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613194761480" />
+    <state width="1345" height="65" key="GridCell.Tab.0.right" timestamp="1613194761480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="65" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613194761480" />
+    <state x="2544" y="245" width="672" height="677" key="run.anything.popup" timestamp="1613150329241">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="245" width="672" height="677" key="run.anything.popup/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1613150329241" />
+  </component>
+</project>
