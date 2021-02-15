@@ -1,4 +1,6 @@
 import React, {useState} from 'react';
+import * as R from 'ramda'
+
 // Components
 import List from '../list/List';
 // Styling
@@ -11,14 +13,14 @@ const Content = () => {
     });
 
     const handleItemChange = (index, type) => event => {
-        let newStateData = {...listData},
+        let newStateData = R.clone(listData),
             updatedData = newStateData[type],
             lastItem = updatedData[updatedData.length - 1];
 
         if(event.target.value) {
             updatedData[index].value = event.target.value;
         } else {
-            updatedData.splice(index, 1);
+            newStateData[type] = R.remove(index, 1, updatedData);
         }
 
         if (lastItem.value) {
@@ -36,12 +38,12 @@ const Content = () => {
             <div className={style.pros}>
                 <h3>Pros</h3>
 
-                <List data={listData.pros} type='pros' handleItemChange={handleItemChange}/>
+                {listData.pros.length && <List data={listData.pros} type='pros' handleItemChange={handleItemChange}/>}
             </div>
             <div className={style.cons}>
                 <h3>Cons</h3>
 
-                <List data={listData.cons} type='cons' handleItemChange={handleItemChange}/>
+                {listData.cons.length && <List data={listData.cons} type='cons' handleItemChange={handleItemChange}/>}
             </div>
         </div>
     )
